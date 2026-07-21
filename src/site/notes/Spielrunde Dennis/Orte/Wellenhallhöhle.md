@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spielrunde-dennis/orte/wellenhallhoehle/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/spielrunde-dennis/orte/wellenhallhoehle/","created":"2026-06-06T07:49:57.191+02:00","updated":"2026-07-01T17:30:24.089+02:00","dg-note-properties":{}}
 ---
 
 Alte Höhle mit einer reichen Miene. [[Spielrunde Dennis/NSC/Gundren Rockseeker\|Gundren Rockseeker]] hat sie wahrscheinlich gefunden. Er hatte auf seiner Reise nach [[Spielrunde Dennis/Orte/Phandalin/Phandalin\|Phandalin]] eine Karte dabei. Am Ort des Überfalls haben wir eine leere Kartenhülle gefunden. Die Karte haben wahrscheinlich die Goblins auf der [[Spielrunde Dennis/Orte/Burg der Cragmaw\|Burg der Cragmaw]].

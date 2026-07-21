@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spielrunde-dennis/nsc/gundren-rockseeker/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/spielrunde-dennis/nsc/gundren-rockseeker/","created":"2026-06-01T07:16:51.643+02:00","updated":"2026-07-01T17:27:01.778+02:00","dg-note-properties":{}}
 ---
 
 Freund. Zwerg. Händler. 

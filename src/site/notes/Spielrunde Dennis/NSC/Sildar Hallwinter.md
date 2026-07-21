@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spielrunde-dennis/nsc/sildar-hallwinter/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/spielrunde-dennis/nsc/sildar-hallwinter/","created":"2026-06-01T07:22:04.687+02:00","updated":"2026-07-01T17:27:27.128+02:00","dg-note-properties":{}}
 ---
 
 Krieger und Freund von [[Spielrunde Dennis/NSC/Gundren Rockseeker\|Gundren Rockseeker]]. 

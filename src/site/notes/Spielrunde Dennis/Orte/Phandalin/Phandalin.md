@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spielrunde-dennis/orte/phandalin/phandalin/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/spielrunde-dennis/orte/phandalin/phandalin/","created":"2026-06-01T20:26:20.000+02:00","updated":"2026-07-01T17:29:05.448+02:00","dg-note-properties":{}}
 ---
 
 

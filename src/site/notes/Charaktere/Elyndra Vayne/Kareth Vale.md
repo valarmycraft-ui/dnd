@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charaktere/elyndra-vayne/kareth-vale/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/charaktere/elyndra-vayne/kareth-vale/","created":"2026-04-24T17:59:08.557+02:00","updated":"2026-07-01T16:36:35.970+02:00","dg-note-properties":{}}
 ---
 
 ![Kareth-Vale.jpg\|697](/img/user/Charaktere/Elyndra%20Vayne/Kareth-Vale.jpg)🗺️ **Kareth Vale**

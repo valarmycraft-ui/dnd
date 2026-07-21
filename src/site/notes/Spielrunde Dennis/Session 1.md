@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spielrunde-dennis/session-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/spielrunde-dennis/session-1/","created":"2026-06-01T07:16:05.063+02:00","updated":"2026-07-01T17:31:40.052+02:00","dg-note-properties":{}}
 ---
 
 Auftrag von [[Spielrunde Dennis/NSC/Gundren Rockseeker\|Gundren Rockseeker]] Waren nach [[Spielrunde Dennis/Orte/Phandalin/Phandalin\|Phandalin]] zu eskortieren. 
